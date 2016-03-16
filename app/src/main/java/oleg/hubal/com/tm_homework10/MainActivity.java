@@ -6,6 +6,10 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
+import oleg.hubal.com.tm_homework10.Fragments.BallFragment;
+import oleg.hubal.com.tm_homework10.Fragments.HeartFragment;
+import oleg.hubal.com.tm_homework10.Fragments.ListFragment;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

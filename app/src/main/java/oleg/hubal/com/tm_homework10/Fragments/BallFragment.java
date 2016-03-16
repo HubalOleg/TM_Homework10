@@ -1,4 +1,4 @@
-package oleg.hubal.com.tm_homework10;
+package oleg.hubal.com.tm_homework10.Fragments;
 
 import android.app.Instrumentation;
 import android.os.Bundle;
@@ -15,6 +15,8 @@ import android.view.animation.ScaleAnimation;
 import android.view.animation.TranslateAnimation;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
+import oleg.hubal.com.tm_homework10.R;
 
 /**
  * Created by User on 16.03.2016.
