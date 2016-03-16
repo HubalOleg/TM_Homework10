@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TM_Homework10</string>
+    <string name="menu_heart_text">Heart</string>
+    <string name="menu_list_text">C/E List</string>
+    <string name="menu_ball_text">Ball</string>
+    <string name="am_hint">Please choose item in \nNavigation bar menu!</string>
 </resources>
