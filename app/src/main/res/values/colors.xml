@@ -5,4 +5,5 @@
     <color name="colorAccent">#FF4081</color>
     <color name="appBackground">#ffffff</color>
     <color name="card_background">#44ff66</color>
+    <color name="color_heart_view">#810002</color>
 </resources>

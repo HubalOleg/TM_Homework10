@@ -1,8 +1,12 @@
 <resources>
     <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">12dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="hint_text_size">20sp</dimen>
     <dimen name="list_margin">10dp</dimen>
     <dimen name="card_padding">8dp</dimen>
+    <dimen name="seekbar_margin">20dp</dimen>
+    <dimen name="seekbar_width">260dp</dimen>
+    <dimen name="img_heart_padding">50dp</dimen>
+    <dimen name="ibtn_size">45dp</dimen>
 </resources>
